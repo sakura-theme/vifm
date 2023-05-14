@@ -8,10 +8,10 @@
 
 📌 Use [sakura-theme/alacritty](https://github.com/sakura-theme/alacritty) together because this color scheme refers to terminal colors.
 
-Clone this repository and move `/path/to/vifm/colors` to `~/.config/vifm/colors`.
+Clone this repository and copy `/path/to/vifm/colors` to `~/.config/vifm/colors`.
 
 ```
-git clone https://github.com/sakura-theme/vifm.git /path/to
+git clone https://github.com/sakura-theme/vifm.git /path/to/vifm
 ```
 
 Add the following line to `~/.config/vifm/vifmrc`.
